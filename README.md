@@ -1,7 +1,7 @@
 ![logo](https://github.com/ishikakumari64/ishikakumari64/blob/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Heya, I'm Ishika Kumari</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
-<img align="right" alt ="coding" width ="400" src=(https://github.com/ishikakumari64/ishikakumari64/blob/main/248884004-af212da4-8588-4d7c-8400-16e56f2746a0.gif)>
+<img align="right" alt ="coding" width ="400" src="https://github.com/ishikakumari64/ishikakumari64/blob/main/248884004-af212da4-8588-4d7c-8400-16e56f2746a0.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishikakumari64&label=Profile%20views&color=0e75b6&style=flat" alt="ishikakumari64" /> </p>
 
