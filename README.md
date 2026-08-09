@@ -13,12 +13,12 @@
 
 - 📫 How to reach me **ishikakumari.it26@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1cYUHTbpUkXbjNAoUFRnx4TJvjbXcBH4Z/view?usp=drivesdk](https://drive.google.com/file/d/1LW5A0Wf-Z-bmvj5cz0ErX9fBq6I-x29m/view?usp=sharing)]([https://drive.google.com/file/d/1cYUHTbpUkXbjNAoUFRnx4TJvjbXcBH4Z/view?usp=drivesdk](https://drive.google.com/file/d/1LW5A0Wf-Z-bmvj5cz0ErX9fBq6I-x29m/view?usp=sharing))
+- 📄 Know about my experiences ([https://drive.google.com/file/d/1cYUHTbpUkXbjNAoUFRnx4TJvjbXcBH4Z/view?usp=drivesdk](https://drive.google.com/file/d/1LW5A0Wf-Z-bmvj5cz0ErX9fBq6I-x29m/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ishika-kumari-7517aa320" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishika-kumari-7517aa320" height="30" width="40" /></a>
-<a href="https://instagram.com/sometimeishika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sometimeishika" height="30" width="40" /></a>
+<a href="https://instagram.com/bas.yaar.ishika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sometimeishika" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/i_ishika6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="i_ishika6" height="30" width="40" /></a>
 </p>
 
