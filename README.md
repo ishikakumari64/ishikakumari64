@@ -10,7 +10,7 @@ software development with AI/ML technologies.
 
 ---
 
-## 🚀 What I'm Working On
+## What I'm Working On
 
 - Learning Machine Learning, Data Science and Generative AI
 - Exploring RAG-based LLM applications
