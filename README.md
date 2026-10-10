@@ -2,7 +2,7 @@
 
 ###  AI/ML Engineer |  Data Science |  GenAI & RAG
 
-**Building intelligent systems that turn data into decisions. **
+Building intelligent systems that turn data into decisions. 
 
 I'm a B.Tech graduate passionate about Artificial Intelligence, Machine Learning, and Generative AI. My interests include building intelligent agents, designing RAG pipelines, developing predictive analytics solutions, and transforming complex data into actionable insights.
 
@@ -21,7 +21,7 @@ I enjoy working at the intersection of **AI, data, and intelligent automation** 
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
 **Languages & Data Science**
 
