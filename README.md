@@ -1,121 +1,118 @@
-# Hiiiii, This is Ishika Kumari !
+# Hey, I'm Ishika Kumari! 
 
-### Aspiring AI/ML Engineer | Data Science | GenAI
+###  AI/ML Engineer |  Data Science |  GenAI & RAG
 
-I'm a B.Tech graduate interested in building intelligent applications using
-Machine Learning, Data Science, and Generative AI.
+**Building intelligent systems that turn data into decisions. **
 
-I also have experience in Full Stack Development and enjoy combining
-software development with AI/ML technologies.
+I'm a B.Tech graduate passionate about Artificial Intelligence, Machine Learning, and Generative AI. My interests include building intelligent agents, designing RAG pipelines, developing predictive analytics solutions, and transforming complex data into actionable insights.
 
----
-
-## What I'm Working On
-
-- Learning Machine Learning, Data Science and Generative AI
-- Exploring RAG-based LLM applications
-- Building projects with Python and Scikit-learn
-- Learning data analysis and model evaluation
-- Building ML projects and recommendation systems
-- Exploring how AI can be integrated into real-world applications
+I enjoy working at the intersection of **AI, data, and intelligent automation** — turning ideas into practical, data-driven solutions.
 
 ---
 
-## Tech Stack
+##  What I Work With
 
-### AI / Machine Learning
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- PyTorch
-- Machine Learning
-- Deep Learning
-- Generative AI
-- RAG
-- LangChain
-
-### Data
-- SQL
-- MongoDB
-- FAISS
-
-### Development
-- React.js
-- Node.js
-- Express.js
-- JavaScript
-- Streamlit
-
-### Tools
-- Git
-- GitHub
-- VS Code
+-  Machine Learning & Predictive Modeling
+-  Generative AI & Large Language Models
+-  Retrieval-Augmented Generation (RAG)
+-  Text-to-SQL & AI-Powered Analytics
+-  Vector Search & Semantic Retrieval
+-  Data Engineering & Business Intelligence
 
 ---
 
-## Featured Projects
+## ⚡ Tech Stack
 
-### Movie Recommendation System
-A content-based movie recommendation system using TF-IDF and
-Cosine Similarity.
+**Languages & Data Science**
 
-**Tech:** Python, Pandas, Scikit-learn, Streamlit
+`Python` `SQL` `Pandas` `NumPy` `Scikit-learn`
 
-> Currently improving this project with a more interactive recommendation experience.
+**AI / Machine Learning**
 
----
+`PyTorch` `TensorFlow` `XGBoost` `Predictive Modeling`
 
-### AI / RAG Research Assistant
-An AI-based research assistant designed to retrieve information from
-documents and generate contextual answers.
+**Generative AI & NLP**
 
-**Tech:** Python, LangChain, FAISS, LLMs, Streamlit
+`GPT-4o` `LLaMA 3` `LangChain` `Hugging Face` `Prompt Engineering`
 
----
+**RAG & Vector Databases**
 
-### Patient Readmission Prediction
-A deep learning project for predicting hospital readmission using
-a PyTorch neural network.
+`Pinecone` `ChromaDB` `Vector Search` `RAG`
 
-**Tech:** Python, PyTorch, Pandas, Scikit-learn
+**Data & Cloud**
 
----
+`Oracle ADW` `MongoDB` `AWS S3` `OCI`
 
-### Achievers
-A full-stack Learning Management System with separate portals for
-students, teachers and administrators.
+**Tools & Analytics**
 
-**Tech:** React.js, Node.js, Express.js, MongoDB
+`Streamlit` `Power BI` `Tableau` `Docker` `MLflow` `Git` `GitHub`
 
 ---
 
-## Currently Learning
+## Featured AI/ML Projects
 
-- Machine Learning
-- Deep Learning
-- Generative AI
-- RAG Systems
-- LLM Applications
-- Data Science
-- SQL
+### 01.Multi-Agent Text-to-SQL BI Engine
+
+**From natural language questions to data-driven insights.**
+
+An AI-powered Text-to-SQL engine designed to translate natural language questions into SQL queries, validate generated queries, correct errors, and visualize query results.
+
+- Semantic database schema parsing
+- Automated SQL validation and self-correction
+- Query result visualization using Pandas and Plotly
+
+**Tech Stack:** Python · GPT-4o · LLaMA 3 · LangChain · PyTorch · Oracle ADW · Streamlit
+
+### 02.Production RAG Knowledge Engine & Vector Search
+
+**Making large collections of documents searchable and useful with AI.**
+
+A Retrieval-Augmented Generation platform for answering questions over thousands of PDF and text documents by combining dense vector retrieval with BM25 search.
+
+- Hybrid retrieval for relevant document context
+- Hallucination guardrails and query-vagueness detection
+- Document versioning and REST API workflows
+- Improved context retrieval precision by 35%, as reported in the project summary
+
+**Tech Stack:** Python · LangChain · Pinecone · Groq · Hugging Face · AWS S3 · Flask
+
+### 03. Autonomous Agentic CRM & Predictive Lead Analyst
+
+**Combining AI agents with predictive sales analytics.**
+
+An AI-powered CRM and lead analysis solution designed to categorize leads, estimate conversion probability, and support sales analysis through tool-using AI agents.
+
+- Lead categorization and conversion-probability scoring
+- Function calling and tool use for database operations
+- Sales forecasting and churn-probability analysis
+- Interactive analytics dashboards using Streamlit
+
+**Tech Stack:** Python · Streamlit · LangChain · OpenAI · Groq · REST APIs
 
 ---
 
-## Ask Me About
+## Currently Exploring
 
-Python • Machine Learning • Data Science • GenAI • RAG •
-React.js • Node.js • MongoDB
-
----
-
-## Connect With Me
-
-- LinkedIn
-- Email
-- GitHub
+- Agentic AI and multi-agent workflows
+- Advanced RAG architectures and retrieval optimization
+- LLM fine-tuning and inference pipelines
+- Machine Learning model evaluation and optimization
+- Predictive analytics and intelligent automation
+- Scalable AI systems and cloud-based ML workflows
 
 ---
 
- I'm continuously learning, building, and documenting my journey in AI/ML.
+## 💬 Let's Connect
+
+Interested in AI, data, or building something intelligent? Let's connect!
+
+-  **LinkedIn:** [Connect with me](https://www.linkedin.com/in/ishika-kumari/)
+- **GitHub:** [Explore my repositories](https://github.com/ishikakumari64)
+- **Email:** [Get in touch](mailto:ishikakumari.it26@gmail.com)
+
+---
+
+> **Think intelligently. Build with purpose. Let data lead the way.**
+
+⭐ *Learning, experimenting, and building toward the future of AI — one project at a time.*
 
