@@ -106,7 +106,7 @@ An AI-powered CRM and lead analysis solution designed to categorize leads, estim
 
 Interested in AI, data, or building something intelligent? Let's connect!
 
--  **LinkedIn:** [Connect with me]((https://www.linkedin.com/in/ishika-kumari-7517aa320/))
+-  **LinkedIn:** [Connect with me](https://www.linkedin.com/in/ishika-kumari-7517aa320/)
 - **GitHub:** [Explore my repositories](https://github.com/ishikakumari64)
 - **Email:** [Get in touch](mailto:ishikakumari.it26@gmail.com)
 
