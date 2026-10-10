@@ -102,7 +102,7 @@ An AI-powered CRM and lead analysis solution designed to categorize leads, estim
 
 ---
 
-## 💬 Let's Connect
+##  Let's Connect
 
 Interested in AI, data, or building something intelligent? Let's connect!
 
