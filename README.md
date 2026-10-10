@@ -51,7 +51,7 @@ I enjoy working at the intersection of **AI, data, and intelligent automation** 
 
 ## Featured AI/ML Projects
 
-### 01.Multi-Agent Text-to-SQL BI Engine
+### 01. Multi-Agent Text-to-SQL BI Engine
 
 **From natural language questions to data-driven insights.**
 
@@ -63,7 +63,7 @@ An AI-powered Text-to-SQL engine designed to translate natural language question
 
 **Tech Stack:** Python · GPT-4o · LLaMA 3 · LangChain · PyTorch · Oracle ADW · Streamlit
 
-### 02.Production RAG Knowledge Engine & Vector Search
+### 02. Production RAG Knowledge Engine & Vector Search
 
 **Making large collections of documents searchable and useful with AI.**
 
@@ -106,7 +106,7 @@ An AI-powered CRM and lead analysis solution designed to categorize leads, estim
 
 Interested in AI, data, or building something intelligent? Let's connect!
 
--  **LinkedIn:** [Connect with me](https://www.linkedin.com/in/ishika-kumari/)
+-  **LinkedIn:** [Connect with me]([https://www.linkedin.com/in/ishika-kumari/](https://www.linkedin.com/in/ishika-kumari-7517aa320/))
 - **GitHub:** [Explore my repositories](https://github.com/ishikakumari64)
 - **Email:** [Get in touch](mailto:ishikakumari.it26@gmail.com)
 
