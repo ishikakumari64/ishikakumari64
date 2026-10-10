@@ -114,5 +114,4 @@ Interested in AI, data, or building something intelligent? Let's connect!
 
 > **Think intelligently. Build with purpose. Let data lead the way.**
 
-⭐ *Learning, experimenting, and building toward the future of AI — one project at a time.*
 
